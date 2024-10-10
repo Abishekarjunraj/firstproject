@@ -1,0 +1,10 @@
+module frequencydivider( clk,newclk);
+input clk;
+output reg newclk =0;
+reg [4:0]count=0;
+always@(posedge clk)
+begin
+count = count + 1'b1;
+newclk = count[4];
+end
+endmodule 
