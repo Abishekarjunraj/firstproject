@@ -8,3 +8,4 @@ count = count + 1'b1;
 newclk = count[4];
 end
 endmodule 
+// example program
