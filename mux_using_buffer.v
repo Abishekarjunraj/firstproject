@@ -38,7 +38,7 @@ in1 = 1'b1; in2 = 1'b1; s=1'b1;
 end 
 endmodule
 
-//a=20
+//a=17
 
 
 
