@@ -9,3 +9,4 @@ newclk = count[4];
 end
 endmodule 
 // example program
+// example 2
